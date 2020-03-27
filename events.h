@@ -1,4 +1,8 @@
 
+/*
+ * Author Telnov Victor, v-telnov@yandex.ru
+ */
+
 #ifndef EVENTS_H
 #define EVENTS_H
 
